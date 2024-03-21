@@ -14,3 +14,6 @@ So
 ```
 from collections import OrderedDict
 ```
+
+## 4. OSError: /root/bin/ai/lib/python3.7/site-packages/nvidia/cublas/lib/libcublas.so.11: symbol cublasLtGetStatusString version libcublasLt.so.11 not defined in file libcublasLt.so.11 with link time reference
+refer to https://github.com/hpcaitech/ColossalAI/issues/2901#issuecomment-1514463705
